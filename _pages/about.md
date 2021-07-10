@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-==============
+# About Me
 
 I am currently a senior researcher at SenseTime.
